@@ -2,10 +2,9 @@
   "name": "crud-api",
   "version": "1.0.0",
   "description": "Simple CRUD API with Express",
-  "main": "server.js",
+  "main": "Crud-Operation.js",
   "scripts": {
-    "install": "npm install",
-    "start": "npm start"
+    "start": "node Crud-Operation.js"
   },
   "dependencies": {
     "express": "^5.1.0"
