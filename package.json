@@ -1,4 +1,12 @@
 {
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "Simple CRUD API with Express",
+  "main": "server.js",
+  "scripts": {
+    "install": "npm install",
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "^5.1.0"
   }
